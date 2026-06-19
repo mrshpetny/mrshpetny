@@ -1,4 +1,4 @@
-# Mr. Shpetny – Cloud Cost Auditor. 
+# Mr. Shpetny – CEO & Cloud Cost Auditor. 
 
 I guarantee $500+/mo waste in AWS or I refund. 
 
