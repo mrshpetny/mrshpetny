@@ -1,7 +1,7 @@
 # Mr. Shpetny – Cloud Cost Auditor. 
 
-I do a full infrastructure audit of EC2, S3, RDS, VPC, and billing data.
+I audit AWS infrastructure (EC2, S3, RDS, VPC) and billing data. 
 
-At least $500/month waste in AWS - guaranteed. Full refund if I don't find waste.
+Guarantee: I find at least $500/month in waste, or I refund the entire fee automatically. 
 
 [https://mrshpetny.com/](https://mrshpetny.com/)
