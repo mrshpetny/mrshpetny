@@ -1,4 +1,4 @@
-# Mr. Shpetny – Cloud Cost Auditor. 
+# Mr. Shpetny – Executive Audit Engagements. 
 
 I audit AWS infrastructure (EC2, S3, RDS, VPC) and billing data. 
 
