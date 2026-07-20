@@ -1,5 +1,7 @@
 # Mr. Shpetny – Executive Audit Engagements. 
 
+Save ~$14,232 per year (typical) – guaranteed $6,000.
+
 Principal‑led boutique firm. No calls, executed entirely by email.
 
 Up to 20% of our AWS bills are pure waste. Idle servers, unattached storage, over‑provisioned compute – they burn capital every month, invisible, delivering zero value. We pay for nothing and can't see it. Developers fear breaking things – it keeps waste untouched. We give you a risk‑free audit and removal commands – all `--dry-run` verifiable, so you can preview the changes before executing. Stop the bleeding today.
