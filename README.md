@@ -1,11 +1,7 @@
-# Mr. Shpetny – Executive Audit Engagements. 
-
-Principal‑led boutique firm. No calls, email only.
-
-## Problems
+# Mr. Shpetny – Executive Audit Engagements
 
 ### Stop burning an extra ~$14,232 a year on AWS
 
-**Up to 20% of our AWS bills are pure waste.** Idle servers, unattached storage, over‑provisioned compute – they burn capital every month, invisible, delivering zero value. We pay for nothing and can't see it. Developers fear breaking things – it keeps waste untouched. We give you a risk‑free audit and removal commands – all `--dry-run` verifiable, so you can preview the changes before executing. Stop the bleeding today.
+**Up to 20% of our AWS bills are pure waste.** Idle servers, unattached storage, over‑provisioned compute – they burn capital every month, invisible, delivering zero value. We pay for nothing and can't see it. Developers fear breaking things – it keeps waste untouched. We give you a risk‑free audit and removal commands – all `--dry-run` verifiable, so you can preview and safely execute the changes. Stop the bleeding today.
 
-[https://mrshpetny.com/](https://mrshpetny.com/)
+[mrshpetny.com](https://mrshpetny.com)
