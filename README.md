@@ -1,5 +1,7 @@
 # Mr. Shpetny – Executive Audit Engagements. 
 
+Principal‑led boutique firm. No calls, email only. California, USA
+
 
 ## Stop burning an extra ~$14,232 a year on AWS
 
