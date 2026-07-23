@@ -1,4 +1,4 @@
-# Mr. Shpetny – Executive Audit Engagements
+# Mr. Shpetny – CEO & Executive Audit Engagements
 
 ### Stop burning an extra ~$14,232 a year on AWS
 
